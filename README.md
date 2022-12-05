@@ -9,9 +9,9 @@ Contents:
   - A look at normal, gamma, and beta distributions
 - Function Plotter/Salter/Smoother (WIP)
   - A program that plots, salts, and smoothens data using JFreeChart and Apache Stats Library
-- MATLAB/Octave Tutorial (WIP)
-  - A guide on using MATLAB/Octave, including data plotting, command line usage, and loading data from .csv files
-- MATLAB/Octave Program (WIP)
+- Octave Tutorial
+  - A guide on using Octave, including basic math functions, data plotting, and command line usage.
+- Octave Program (WIP)
   - A program that plots, salts, and smoothens data using MATLAB/Octave that exports results to .csv files
 - Dataset Book Problems
   - Statistical problems from the textbook solved using chosen datasets
