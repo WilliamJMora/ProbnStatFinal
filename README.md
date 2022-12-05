@@ -10,7 +10,7 @@ Contents:
 - Function Plotter/Salter/Smoother (WIP)
   - A program that plots, salts, and smoothens data using JFreeChart and Apache Stats Library
 - Octave Tutorial
-  - A guide on using Octave, including basic math functions, data plotting, and command line usage.
+  - A guide on using Octave, including basic math functions, data plotting, and command line usage
 - Octave Program (WIP)
   - A program that plots, salts, and smoothens data using MATLAB/Octave that exports results to .csv files
 - Dataset Book Problems
