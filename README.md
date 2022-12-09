@@ -16,7 +16,7 @@ Probability and Statistics Final Project
 - Dataset Book Problems
   - Statistical problems from the textbook solved using chosen datasets
 - Poker Program (WIP)
-  - A poker game that deals two hands and determines the winner
+  - A poker program that determines the probability of each hand ranking
 - Formal Report (WIP)
   - A report documenting everything in the final project
 
