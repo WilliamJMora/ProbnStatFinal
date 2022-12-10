@@ -4,6 +4,7 @@ public class Card {
 	private int number;
 	private String suit;
 	
+	// Card constructor
 	public Card(int number, String suit) {
 		
 		this.number = number;
@@ -35,21 +36,25 @@ public class Card {
 		
         String str;
 
+		// 11 represents a Jack
         if (getNumber() == 11) {
             str = "Jack of " + getSuit();
 			
         }
         
+		// 12 represents a Queen
         else if (getNumber() == 12) {
             str = "Queen of " + getSuit();
 
         }
         
+		// 13 represents a King
         else if (getNumber() == 13) {
             str = "King of " + getSuit();
 
         }
         
+		// 1 represents an Ace
         else if (getNumber() == 1) {
             str = "Ace of " + getSuit();
 
