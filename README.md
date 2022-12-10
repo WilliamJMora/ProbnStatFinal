@@ -18,7 +18,7 @@ Probability and Statistics Final Project
 - Poker Program
   - A poker program that determines the probability of each hand ranking
 - Formal Report
-  - A report documenting everything in the final project
+  - A report documenting the dataset problems
 
 **Sources:**
 
